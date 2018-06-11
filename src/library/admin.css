@@ -1,0 +1,94 @@
+
+  body {
+    background-color: #FFFFFF;
+    color: #004080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .bd {
+    background-color: #FFFFFF;
+    color: #004080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .tbl {
+    background-color: #FFFFFF;
+  }
+  a:link { 
+    color: #FF0000;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:active { 
+    color: #0000FF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:visited { 
+    color: #800080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .hr {
+    background-color: #336699;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:link {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:active {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:visited {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .dr {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+	cursor:pointer;
+
+  }
+  .sr {
+    background-color: #FFFFCF;
+    color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+	cursor:pointer;
+
+  }
+
+ #entryTableHeader {
+	font-family: "Courier New", Courier, mono;
+	text-align:center;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #7F92A4;
+	font-weight: bold;
+	background-position: center;
+} 
+table.hovertable tr {
+	background-color:#d4e3e5;
+}
+.gee{
+  background-color:#ffffff;
+  color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+}
+.yes{
+  background-color: #FFFFCF;
+  color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+}
+

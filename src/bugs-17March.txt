@@ -1,0 +1,13 @@
+Lead:
+1) When you click Reject Record to ask reason.
+2) to avoid success popup
+3) Accepted Record should be rename. ?
+
+Proposal:
+1)Decimal places to be set globally.
+2)Discount(% or Rs or $)
+3)Tax(%)
+4)Quote Date (default :today date) ?
+5)Rejected Record (to ask reason and confirmation)
+6)to rename Rejected and Accepted Record ?
+7)

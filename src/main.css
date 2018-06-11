@@ -1,0 +1,105 @@
+  body {
+    background-color: #FFFFFF;
+    color: #004080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  #toggle{
+  	visibility:hidden;
+  }	
+  .bd {
+    background-color: #FFFFFF;
+    color: #004080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .tbl {
+    background-color: #FFFFFF;
+  }
+  .tbl1 {
+    
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:link { 
+    color: #FF0000;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:active { 
+    color: #0000FF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:visited { 
+    color: #800080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .hr {
+    background-color:#336699;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:left;
+  }
+  a.hr:link {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:active {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:visited {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .dr {
+    background-color:#F2F2F2;
+    color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+	
+	
+ }
+  .sr {
+    color: #000000;
+	background-color:#E2E2E2;
+    font-family: Arial;
+    
+	
+  }
+  
+   .srhighlight2 {
+ 	color: #000000;
+	background-color: #D5D5D5;
+	font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+}
+  .srhighlight {
+    color: #000000;
+	background-color:#9FECEA;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:left;
+	
+ }
+ .srhighlighthash {
+ 	background-color:#999999;
+	color: #000000;
+	 font-family: Arial;
+    font-size: 12px;
+ }
+ .hrhighlightgreen {
+    color: #000000;
+	background-color:#99FF99;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+	
+ }

@@ -1,0 +1,505 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-color:#eaf4f8;
+	}
+input.uppercase{
+	text-transform:uppercase;
+}
+textarea.uppercase{
+	text-transform:uppercase;
+}
+input.lowercase{
+	text-transform:lowercase;
+}
+
+
+
+.tablestyle
+{
+	border-collapse:collapse;
+	color: #000000;
+	/*background-color:#99FFCC;*/
+	background-color:#FBE6B3;
+    /*font-family: Arial;*/
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+}
+
+ .hr {
+    background-color:#336699;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:left;
+  }
+  a.hr:link {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:active {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:visited {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+   .dr {
+    background-color:#F2F2F2;
+    color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+
+	
+ }
+  .sr {
+    color: #000000;
+	background-color:#E2E2E2;
+    font-family: Arial;
+    font-size: 12px;
+	
+	
+  }
+  
+  
+  .srhighlight {
+    color: #000000;
+	background-color:#9FECEA;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:left;
+	
+ }
+  .srhighlight1 {
+    color: #000000;
+	background-color:#9FECEA;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+	
+ }
+ .srhighlight2 {
+ 	color: #000000;
+	background-color:#D5D5D5;
+	font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+}
+.srhighlight3 {
+ 	color: #000000;
+	background-color:#FF8080;
+	font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+}
+ .hrhighlightgreen {
+    color: #000000;
+	/*background-color:#99FF99;*/
+	background-color:#D9F4F3;
+	/* background-color:#ACF2B5;*/
+    font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+	
+ }
+ .hrhighlightgreen1 {
+    color: #000000;
+	/*background-color:#99FFCC;*/
+	background-color:#D9F4F3;
+    font-family: Arial;
+    font-size: 12px;
+	text-align:center;
+	
+ }
+ .hrhighlightblue {
+ 	/*background-color:#D9F4F3;*/
+	background-color:#FEEFEB;
+	filter:alpha(opacity=60); 
+	-moz-opacity:0.6; 
+	opacity: 0.6;
+	border: 1px solid black;
+	color: #000000;
+ }
+ .hrhighlightbrown{
+ 	background-color:#842409;
+    font-family: Arial;
+    font-size: 12px;
+	color: #000000;
+ }
+ .hrbrown1{
+ 	background-color:#990000;
+    font-family: Arial;
+    font-size: 12px;
+	color: #000000;
+ }
+ 
+ .hrhighlightbrown2{
+ 	color: #000000;
+	background-color:#F9B7A4;
+    font-family: Arial;
+    font-size: 12px;
+ }
+ .hrhighlightorange {
+    color: #000000;
+	/*background-color:#99FFCC;*/
+	background-color:#FBE6B3;
+    font-family: Arial;
+    font-size: 12px;
+	
+	
+ }
+  .bd {
+    background-color: #FFFFFF;
+    color: #004080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .tbl {
+    background-color: #FFFFFF;
+  }
+  .tbl1 {
+
+    font-family: Arial;
+    font-size: 12px;
+  }
+#body_main {
+	width:100%;
+	height:500%;
+	/*border:1px;
+	border-style:solid;*/
+	margin:0;
+	padding:0
+	background:#CCC;
+	}
+
+#Header1 {
+	width:100%;
+	height:20px;
+	border:1px;
+	border-style:outset;
+	margin:0%;
+	padding:0;
+	background:url(images/main_header.jpg);
+	}
+#Text_H1{
+	width:25%;
+	height:20px;
+	margin:0%;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	/*font-weight:bold;*/
+	color:#00f;
+	}
+#Text_H2 {
+	width:55%;
+	height:20px;
+	margin-left:40%;
+	_margin-left:40%;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	/*font-weight:bold;*/
+	color:#00f;
+	}
+#Text_H3 {
+	width:15%;
+	height:20px;
+	margin-left:30%;
+	_margin-left:30%;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	/*font-weight:bold;*/
+	color:#00f;
+	}
+#Header2 {
+	width:100%;
+	height:60px;
+	border:1px;
+	border-style:outset;
+	margin:0;
+	padding:0;
+	background:url(images/header2.jpg);
+	}
+#Header2_Img {
+	width:240px;
+	height:60px;
+	margin:0;
+	padding:0;
+	}
+
+#Content_Page {
+	width:100%;
+	height:440px;
+	margin:0;
+	_margin-top:0px;
+	padding:0;
+	_padding-right:2px;
+	 font-family: Arial;
+    font-size: 12px;
+	
+	}
+#Left {
+	width:15%;
+	height:700px;
+	margin:0;
+	padding:0;
+	background:#c8dce8;
+	}
+#Left_H {
+	width:100%;
+	height:40px;
+	margin:0;
+	padding:0;
+	background:url(images/left_header.jpg);
+	}
+	
+#Left_Text{
+	width:15%;
+	height:40px;
+	margin:10px 0 0 50px;;
+	padding:0;
+	color:#000;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	position:absolute;
+	
+	}
+
+	
+#Center {
+	float:left;
+	width:85%;
+	_width:85%;
+	height:700px;
+	margin-left:15%;
+	_margin-left:7.4%;/* For IE*/
+	margin-right:0px;
+	margin-top:-700px;
+	
+	padding-right:1%;
+	/*border:1px;
+	border-style:solid;*/
+	background-color:#fff;
+	}
+#Center_H {
+	width:100%;
+	height:40px;
+	margin-left:0%;
+	padding-right:1%;
+	background:url(images/content1.jpg);
+	
+	color:#fff;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:bold;
+	
+	}
+
+#Center_Text {
+	width:90%;
+	margin-left:0px;
+	margin-top:-15px;
+	padding-top:0px;
+	text-align:center;
+}
+#status_bar {
+	width:10%;
+	margin-left:0px;
+	padding-top:14px;
+	
+	}
+#loading {
+	/*position:absolute; */
+	width:100%;
+	height:100%; 
+	/*text-align:center; */
+	margin-top:0px;
+    visibility:visible;
+}
+#Center_Content {
+	width:100%;
+	height:95%;
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:center;
+	overflow: auto;  
+	overflow-y: scroll; 
+	overflow-x: scroll;
+	}
+#Right {
+	float:right;
+	width:20%;
+	height:700px;
+	margin-left:0;
+	margin-right:-2px;
+	_margin-right:-2px;
+	margin-top:-700px;
+	_padding-right:2px;
+	/*padding:0;*/
+	background:#c8dce8;
+	}
+#Right_H {
+	width:100%;
+	height:40px;
+	margin:0;
+	padding:0;
+	background:url(images/left_header.jpg);
+	}
+#Footer {
+	float:left;
+	width:100%;
+	height:20px;
+	margin-left:0px;
+	margin-right:-2px;
+	padding-right:2px;
+	/*border:1px;
+	border-style:solid;*/
+	background:url(images/left_header.jpg);
+	}
+#Footer_Text {
+	width:100%;
+	height:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+	}
+	
+
+/* Active menu item */
+	
+	#dhtmlgoodies_slidedown_menu .dhtmlgoodies_activeItem {
+		/*font-weight:bold;
+		background-color:green;*/
+		color: green;
+	}
+
+	#dhtmlgoodies_slidedown_menu li{
+		list-style-type:none;
+		position:relative;
+	}
+	#dhtmlgoodies_slidedown_menu ul{
+		margin:0px;
+		padding:0px;
+		position:relative;
+
+	}
+
+	#dhtmlgoodies_slidedown_menu div{
+		margin:0px;
+		padding:0px;
+	}
+	/* 	Layout CSS */
+	#dhtmlgoodies_slidedown_menu{
+		visibility:hidden;
+		border:1px solid #000;
+		padding:1px;
+
+		width: 98%;	/* IE 5.x */
+		width/* */:/**/98%;	/* Other browsers */
+		width: /**/98%;
+		}
+
+	/* All A tags - i.e menu items. */
+	#dhtmlgoodies_slidedown_menu a{
+		color: #000;
+		text-decoration:none;
+		display:block;
+		clear:both;
+
+		padding-left:2px;
+
+		width: 99%;	/* IE 5.x */
+		width/* */:/**/99%;	/* Other browsers */
+		width: /**/99%;
+		
+	}
+
+	/* Active menu item */
+	#dhtmlgoodies_slidedown_menu .dhtmlgoodies_activeItem {
+		/*font-weight:bold;*/
+		color: #000;
+		background-color:#6FF;
+	}
+
+	/*
+	A tags
+	*/
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth1{	/* Main menu items */
+		margin-top:1px;
+		font-weight:bold;
+		background-color:#317082;
+		color:#FFF;
+		background-image:url('images/bg.jpg');
+		height:30px;
+		line-height:30px;
+		vertical-align:middle;
+		padding-left:0px;
+		border-left:1px solid #000;
+		border-right:1px solid #000;
+		text-align:center;
+	}
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth2{	/* Sub menu items */
+		margin-top:1px;
+	}
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth3{	/* Sub menu items */
+		margin-top:1px;
+		/*font-style:italic;*/
+		color:#039;
+	}
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth4{	/* Sub menu items */
+		margin-top:1px;
+		color:red;
+	}
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth5{	/* Sub menu items */
+		margin-top:1px;
+	}
+
+	/* UL tags, i.e group of menu utems.
+	It's important to add style to the UL if you're specifying margins. If not, assign the style directly
+	to the parent DIV, i.e.
+
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1
+
+	instead of
+
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1 ul
+	*/
+
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1 ul{
+		padding:1px;
+	}
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv2 ul{
+		margin-left:5px;
+		padding:1px;
+	}
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv3 ul{
+		margin-left:10px;
+		padding:1px;
+	}
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth4 ul{
+		margin-left:15px;
+		padding:1px;
+	}
+	#Empty {
+	width:100%
+	height:400px;
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:center;
+	
+	}

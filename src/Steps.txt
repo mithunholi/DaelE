@@ -1,0 +1,49 @@
+Quote Number Procedure
+	EO+VT+P2+R1+2012+0001
+	EO+VT+2012+PR0001 (if EO+VT+2012 exists to start EO+VT+2012+PR0002) suppose revision found=(PR1001)
+	ourcompany+codenumber+REVISIONno+customername+projectno+year
+	1) First check company+customername 
+	2) if found to increase project number(P2,P3..) and serial number (0002,0003...) and Revision number (R0). otherwise start with P1 and serial number start with 0001 and Revision number increment by 1(R1,R2)
+	3) 
+
+Performa Invoice Procedure
+
+
+Invoice No Procedure
+
+
+1)Purchase Order(from Customer)
+  attachement
+2)Performa Invoice:(ack)
+3)Payment info
+  	advanced payment(First Invoice)
+      		payment type : Cheque/Cash/DD/WT
+      		Amount :
+      		Cheque/DD/WT No :
+      		Paid Date:
+  	Remainimg Payment:
+
+4)Installation Process:
+      Note Head : Wiring
+      Note Summary: 
+
+      if installation process is done to issue First Invoice	
+
+5)Additional Work:(if addition work is found to raise another one Invoice) 
+
+6)AMC (YES / NO)
+  Start Date:
+  End Date:
+7)Product (Warranty)
+	issue Date  :
+	End Date:
+
+8)SERVICE Information
+
+Quotation
+  Quotaion1
+    Revision1
+    Revision2
+  Quotation2
+    Revision1
+    Revision2
